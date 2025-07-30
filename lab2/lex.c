@@ -1,3 +1,4 @@
+//gayathri 22132
 %{
 #include <stdio.h>
 #include <stdlib.h>
